@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Your App Name",
+    "slug": "your-app-slug",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://milanvanani.in/assets/images/my-avatar.png",
+    "android": {
+      "package": "com.milanvanani.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f63b27e3-3e7b-4982-ab63-cdbb0cd64574"
+      }
+    },
+    "owner": "milanvananidev"
+  }
+}
